@@ -1,0 +1,5 @@
+C:\Users\Swetha\source\repos\Recipe.Core\obj\Debug\net8.0\Test.Core.csproj.AssemblyReference.cache
+C:\Users\Swetha\source\repos\Recipe.Core\obj\Debug\net8.0\Test.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Swetha\source\repos\Recipe.Core\obj\Debug\net8.0\Test.Core.AssemblyInfoInputs.cache
+C:\Users\Swetha\source\repos\Recipe.Core\obj\Debug\net8.0\Test.Core.AssemblyInfo.cs
+C:\Users\Swetha\source\repos\Recipe.Core\obj\Debug\net8.0\Test.Core.csproj.CoreCompileInputs.cache
